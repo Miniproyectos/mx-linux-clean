@@ -19,9 +19,9 @@
 
 Revisa el script "mxlinuxpostinstall" para comprobar los programas eliminados, temas.
 
+
 <div align="center">
-    <a href="https://ibb.co/FbWLLq13"><img src="https://i.ibb.co/gM7LLF89/cod1.png" alt="cod1" border="0"></a>
-    <a href="https://ibb.co/20GvcgjG"><img src="https://i.ibb.co/gbkStzDk/cod2.png" alt="cod2" border="0"></a>
+<a href="https://ibb.co/20GvcgjG"><img src="https://i.ibb.co/gbkStzDk/cod2.png" alt="cod2" border="0"></a>
 </div>
 
 El objetivo del proyecto es tener un MX Linux "Base", apartir de este construir otros MX Linux:
